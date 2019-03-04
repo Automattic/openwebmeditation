@@ -1,4 +1,6 @@
-# openwebmeditation
+# Open Web Meditation
+
+#### An Automattic Design Experiment
 
 This repository contains all the assets from the open web meditation that was created as an Automattic Design experiment. In the spirit of open source, we would like to invite others to create their own versions of this meditation that translate it to other languages so that we can share the ideas behind it globally. 
 
