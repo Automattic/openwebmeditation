@@ -16,6 +16,6 @@ This repository contains all the assets from the open web meditation that was cr
 Provided here are:
 - the full video with voiceover as a reference
 - the video file without the voiceover
-- the text of the U.S. English voiceover script
-- the captions file
+- `openweb_meditation_text.md`: the text of the U.S. English voiceover script
+- `openweb_meditation_captions.srt`: the captions file
 
