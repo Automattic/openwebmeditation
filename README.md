@@ -11,7 +11,7 @@ _“The technology industry, like all industries, follows cycles, and the pendul
 
 ##### About this repository
 
-This repository contains all the assets from the open web meditation that was created as an Automattic Design experiment. In the spirit of open source, we would like to invite others to create their own versions of this meditation that translate it to other languages so that we can share the ideas behind it globally. 
+This repository contains all the assets from the open web meditation that was created as an Automattic Design experiment. In the spirit of open source, we would like to invite others to create versions of this meditation in their own languages so that we can share the ideas behind it globally. Please use the assets provided to create your own voiceover track and export alternate language versions of the full video.
 
 Provided here are:
 - the full video with voiceover as a reference
