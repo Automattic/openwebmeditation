@@ -8,6 +8,6 @@ You float back up, flying out of the city smog and into clear air. As you fly, y
 
 You fly back up and want to see what else is out there in the world. As the suburbs fade into the distance the rest of the world comes into focus on the horizon. You see farmsteads in remote corners of the countryside. You see riverside factories. You see backpackers on mountainsides. You see small settlements and emerging new cities. You see apartment buildings and straw huts, sprawling homesteads and local churches. 
 
-This diverse group of people value their freedom, but they dream of some of the comforts of city and suburban life—utilities and services, same-day mail delivery, cable TV, corner stores with all the amenities. They want ways to make their houses bigger and stronger, tools to make their business more valuable for customers, and roads to connect them to other people.  
+This diverse group of people value their freedom, but they dream of some of the comforts of city and suburban life—utilities and services, same-day mail delivery, cable TV, corner stores with all the amenities. They want ways to make their houses bigger and stronger, tools to make their business more valuable for customers, and roads to connect them to other people.  (This is the open web, powered by WordPress)
 
 Eventually, you fly past the last settlement and find yourself back in an open field. And as your breathing slows, you get heavier and heavier, until eventually you settle back down to earth. 
