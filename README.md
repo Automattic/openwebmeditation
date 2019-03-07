@@ -24,9 +24,11 @@ Please use the assets provided to create your own voiceover track and export alt
 6) Create a new folder in this repo with the name of your language and add your assets to it. Also feel free to share your version on YouTube or your own website!
 7) Thanks for participating!
 
-Provided here are:
-- the full video with voiceover as a reference
-- the video file without the voiceover
+Provided in the repository are:
 - `openweb_meditation_text.md`: the text of the U.S. English voiceover script
 - `openweb_meditation_captions.srt`: the captions file
+
+Video files are available as follows:
+- [Video without sound](https://automatticdesign.files.wordpress.com/2019/03/openweb_meditation_silent.mp4)
+- [Video with sound](https://automatticdesign.files.wordpress.com/2019/03/openweb_meditation_fullmix.mp4)
 
