@@ -21,8 +21,9 @@ Please use the assets provided to create your own voiceover track and export alt
 3) Play the video silently as you record your own voiceover audio to make sure you are synced to the animation.
 4) Use video editing software (something simple like iMovie is fine!) to combine the video file (without voiceover) with your voiceover audio and export a full video version in your own language.
 5) Use a service like [Trint](https://trint.com) to generate an .srt caption file.
-6) Create a new folder in this repo with the name of your language and add your assets to it. Also feel free to share your version on YouTube or your own website!
-7) Thanks for participating!
+6) Upload your video to YouTube or your own website. 
+7) Fork this repository, add your link under "links to translated versions" in this readme doc and submit a pull request.
+8) Thanks for participating!
 
 Provided in the repository are:
 - `openweb_meditation_text.md`: the text of the U.S. English voiceover script
@@ -32,3 +33,4 @@ Video files are available as follows:
 - [Video without sound](https://automatticdesign.files.wordpress.com/2019/03/openweb_meditation_silent.mp4)
 - [Video with sound](https://automatticdesign.files.wordpress.com/2019/03/openweb_meditation_fullmix.mp4)
 
+#### Links to translated versions
