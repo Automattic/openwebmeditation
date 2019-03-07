@@ -29,8 +29,9 @@ Provided in the repository are:
 - `openweb_meditation_text.md`: the text of the U.S. English voiceover script
 - `openweb_meditation_captions.srt`: the captions file
 
-Video files are available as follows:
+Video files of the original U.S. English version are available as follows:
 - [Video without sound](https://automatticdesign.files.wordpress.com/2019/03/openweb_meditation_silent.mp4)
 - [Video with sound](https://automatticdesign.files.wordpress.com/2019/03/openweb_meditation_fullmix.mp4)
 
-#### Links to translated versions
+#### List of all language versions
+- [U.S. English](https://automatticdesign.files.wordpress.com/2019/03/openweb_meditation_fullmix.mp4)
