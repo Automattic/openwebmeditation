@@ -30,8 +30,8 @@ Provided in the repository are:
 - `openweb_meditation_captions.srt`: the captions file
 
 Video files of the original U.S. English version are available as follows:
-- [Video without sound](https://automatticdesign.files.wordpress.com/2019/03/openweb_meditation_silent.mp4)
-- [Video with sound](https://automatticdesign.files.wordpress.com/2019/03/openweb_meditation_fullmix.mp4)
+- [Video without sound](https://automatticdesign.files.wordpress.com/2019/04/openweb_silent.mp4)
+- [Video with sound](https://automatticdesign.files.wordpress.com/2019/03/openweb.mp4)
 
 #### List of all language versions
 - [U.S. English](https://automatticdesign.files.wordpress.com/2019/03/openweb_meditation_fullmix.mp4)
